@@ -12,7 +12,7 @@ app.post('/thechatbot/v1/answerme/tiledesk', (req, res) => {
   console.log('You asked: ' + tdclient.text)
   res.status(200).send({"success":true})
   let msg = {
-    text: 'Cheers! You asked: ' + tdclient.text
+    text: functions.processQuestion(tdclient.text,false)
   }
   tdclient.sendMessage(msg)
 });
