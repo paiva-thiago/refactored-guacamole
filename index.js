@@ -1,5 +1,6 @@
 const express = require('express')
 const bodyParser = require('body-parser')
+const functions = require('./lib/functions.js')
 const { TiledeskChatbotClient } = require('@tiledesk/tiledesk-chatbot-client')
 
 const app = express();
