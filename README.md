@@ -8,7 +8,7 @@ Então... é uma versão do [thechatbot](https://github.com/paiva-thiago/thechat
 So... this is a [thechatbot](https://github.com/paiva-thiago/thechatbot) version to work with [tiledesk](https://tiledesk.com/)
 
 
-## Author
+## Author 🎨
 
 👤 **Thiago Paiva**
 
@@ -17,12 +17,16 @@ So... this is a [thechatbot](https://github.com/paiva-thiago/thechatbot) version
 * Github: [@paiva-thiago](https://github.com/paiva-thiago)
 * LinkedIn: [@paivathiago](https://linkedin.com/in/paivathiago)
 
-## Apóia a gente! / Show your support
+## Apóia a gente! / Show your support 👏
 
 Ajudou? dá uma ⭐️ marota no repositório!
 Give a ⭐️ if this project helped you!
 
+## Porque esse nome? / Why this name? 🤔
 
+Pergunta pro github, eles que deram a ideia!
+
+Ask github, this is its idea!
 
 ***
 _This README was generated with/README gerado com ❤️ por/by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
